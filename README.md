@@ -1,5 +1,5 @@
-#RubyonRailsTutorial: firstapplication
+#Ruby on Rails Tutorial: first application
 
-Thisisthefirstapplicationfor
+This is the first application for
 [*RubyonRailsTutorial: LearnRailsbyExample*](http://railstutorial.org/)
 by[MichaelHartl](http://michaelhartl.com/).
